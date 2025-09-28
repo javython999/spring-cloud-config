@@ -3,7 +3,7 @@ spring:
     driver-class-name: org.h2.Driver
     url: jdbc:h2:mem:testdb;DB_CLOSE_DELAY=-1;
     username: sa
-    password: sa_pw
+    password: '{cipher}09ab6edb2bfe6f2649e619ef7b914fd6862b44d5619bcac1fa2be6b5ac8a67d9'
 
 # order-service:
 #   # url: http://127.0.0.1:8000/order-service/%s/orders
