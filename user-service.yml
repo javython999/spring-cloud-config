@@ -3,7 +3,7 @@ spring:
     driver-class-name: org.h2.Driver
     url: jdbc:h2:mem:testdb;DB_CLOSE_DELAY=-1;
     username: sa
-    password: '{cipher}09ab6edb2bfe6f2649e619ef7b914fd6862b44d5619bcac1fa2be6b5ac8a67d9AYBmPVlM22YhKzHaZcXPB8o9PFZSAbjp/H4PFaD42sJKszZaf1kMSD/Y9FhaHxQVOgDKGf/RY9hqTkMNNi77ONM7C+IKCkTf6dCUo+UkzZiLn00nMEjOjMZ3T9pg5Z+iFO+iPOYwHKpH4L1DcwkSKUq1cYL5YACF2ydqB82RjSQyOdm6vJaiO8ScBrFp6Cv06ZWTVD60nhNwgySCcQ4CeitIOVM5+187DecgFknQUdVo9x2FSyMd1/EyAU1A1kszNqMg+hzlYQ9y6OBPLwTnthzux1WxdIlBZFNI0y4U7jCvZaEpajBRyPHN+iP7IHXyTi/A5kXSYOhAUxEmVwOvsHDHJnOZV0wg++juQjGtU1YG1NakNNHM5sFLdAsnzPDi46Ga9DjPAyKx9Sd4b7qe1UfX7oSMsT3W1Svg3Bc069dLecq/h3g3x3iulbDEruONSa0V3nrLC7/HsPik/bJTvp+HQJ9ruZDGEXTIFLLMsH4rR+F/ZOd5fbmut/ccnHMKBwTw3f/noeKEHng2zW5t5m7hzD7WLLs0DpZsOBWdHrys/g=='
+    password: '{cipher}AYAbsCQeI2/iSwsD/UrLvXMOH7of2MmsnSCSg64Yfgh1/T5GseVLV62m4KgUHF41lQQjrMV3HQXAXu5ePVVSsz7k01gjpYSpemd2ddPmtrpSTI5jL7Xqkj8Gdd56InaalIbGFsY8OwQE44A3vLrM5TG15IzHDWI3WUb2NI9dDT0GB/kllpUxi+sJr6Tqi5lPHHtFrZHqu47yqB4xVkS2Rc/gpQCc5aqr8nwWtenrQ8OLCMXmQZKZD60UGc50FRwpZ3avUJaUW0slzfiupCQ3/ViIGG6irdEtTVm3imLgPCuZOzw4uBdg5ws816/8Y6fwwUlealAya+1yS1CrNROFFg0XX6CIbTB26dxeVEyhXfVq2Brrin8ZDxjY+UNHP6ReQNyV8HUOf6FaqrBfdc4tvd+tMhf0Ef28AWmejQYC1zR22yb9X31RTw+idj9D4q7kGrpxBR7w/OOEDEPyg9mgcRI4m/eBvLHz/t7ctEzifrEL4DKhqmLEzU+nt+10KZTQ99lLrcpad/O4hPxs9iXf4ABPGoWsqELbpX3huGEoaK62Dw=='
 
 # order-service:
 #   # url: http://127.0.0.1:8000/order-service/%s/orders
